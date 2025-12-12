@@ -17,3 +17,11 @@ Course materials for the Reinforcement Learning module at ZHAW (Zurich Universit
 ### [Week 3: Policy Learning](week3/)
 - Policy Learning
 - Cartpole example
+
+### [Week 4: Comparing Policies](week4/)
+- Lunar Lander
+- Running different policies
+
+### [Open Projects](projects/)
+- Policy Learning
+- Cartpole example
